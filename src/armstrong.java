@@ -12,6 +12,7 @@ public class armstrong {
             c++;
             n=n/10;
         }
+
         while(s>0){
             int temp=s%10;
              r=(int)Math.pow(temp,c)+r;
