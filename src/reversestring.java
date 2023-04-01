@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class substringprint {
+public class reversestring {
     public static void main(String[] args) {
         String str="isha";
 
