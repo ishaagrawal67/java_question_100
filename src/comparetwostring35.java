@@ -5,6 +5,7 @@ public class comparetwostring35 {
         Scanner sc= new Scanner(System.in);
         String s1=sc.next();
         String s2=sc.next();
+        //if(s1.length()==s2.length())
         System.out.println(s1.compareTo(s2));
     }
 }
