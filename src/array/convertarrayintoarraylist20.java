@@ -1,6 +1,7 @@
 package array;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class convertarrayintoarraylist20 {
     public static void main(String[] args) {
